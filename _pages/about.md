@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [**Effective Neural Author-Topic Modeling by Leveraging Pre-Trained Language Models**](https://github.com/VincentShen0217/TEAM), **Yingda Shen**, Da Yan, Yang Zhou, Zhe Jiang, **IEEE BigData 2025**
+- [**Effective Neural Author-Topic Modeling by Leveraging Pre-Trained Language Models**](https://github.com/VincentShen0217/TEAM), **Yingda Shen**, Da Yan, Yang Zhou, **IEEE BigData 2025**.
 
 # 🎖 Honors and Awards
 - *2024.12* National College Student Innovation Project Funding. 
@@ -58,5 +58,6 @@ My research interest includes neural machine translation and computer vision. I 
 - Oral Reporter: BigData 2025.
 
 # 💻 Internships
-- *2024.06 - 2024.10*, [Indiana University Bloomington](https://www.indiana.edu/), USA.
-- *2022.06 - 2022.08*, [University of Cambridge](https://www.cam.ac.uk/), UK.
+- *2025.12 - now*, [Microsoft Research](https://www.microsoft.com/en-us/research/), USA. Mentored by [Dr. Yao Qian](https://www.microsoft.com/en-us/research/people/yaoqian/)
+- *2024.06 - 2024.10*, [Indiana University Bloomington](https://www.indiana.edu/), USA. Mentored by [Prof. Da Yan](https://homes.luddy.indiana.edu/yanda/home.html)
+- *2022.06 - 2022.08*, [University of Cambridge](https://www.cam.ac.uk/), UK. Mentored by [Prof. Pietro Liò](https://www.cst.cam.ac.uk/people/pl219)

@@ -27,8 +27,9 @@ Prior to his M.Phil. studies, Yingda received his B.Eng. degree from the Electro
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 [WhispEar](https://whispear-demo.github.io/)'s demo page released! 
 - *2026.03*: &nbsp;🎉🎉 [WhispEar: A Bi-directional Framework for Scaling Whispered Speech Conversion via Pseudo-Parallel Whisper Generation](https://arxiv.org/abs/2603.08046)'s arxiv preprint published!
+- *2025.12*: &nbsp;🎉🎉 Start internship at [Microsoft Research](https://www.microsoft.com/en-us/research/)!
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by IEEE BigData 2025!
-- *2025.06*: &nbsp;🎉🎉 [**T**ransformer-**E**npowered **A**uthor-topic **M**odel (**TEAM**)](https://github.com/VincentShen0217/TEAM)'s code repository released! 
+- *2025.06*: &nbsp;🎉🎉 [**T**ransformer-**E**npowered **A**uthor-topic **M**odel (**TEAM**)](https://github.com/VincentShen0217/TEAM)'s code repository released!
 
 # 📝 Publications 
 
@@ -57,9 +58,9 @@ Zihao Fang\*, **Yingda Shen<sup>*</sup>**, Zifan Guan, Tongtong Song, Zhenyi Liu
 </div>
 
 # 🎖 Honors and Awards
-- *2024.12* National College Student Innovation Project Funding. 
-- *2023.04* WHU Merit Student Scholarship. 
-- *2022.10* WHU International Exchange Scholarship. 
+- *2024.12* National College Student Innovation Project Funding (RMB 10000). 
+- *2023.04* WHU Merit Student Scholarship (RMB 3000). 
+- *2022.10* WHU International Exchange Scholarship (RMB 8000). 
 
 # 📖 Educations
 - *2025.09 - now*, M.Phil. at School of Data Science, The Chinese University of Hongkong (Shenzhen). 

@@ -19,7 +19,9 @@ redirect_from:
 
 Welcome to Yingda Shen's personal homepage! Yingda Shen is a M.Phil. candidate at The Chinese University of Hong Kong (Shenzhen), advised by Prof. Zhizheng Wu. His research interests include speech generation and speech language models.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Prior to his M.Phil. studies, Yingda received his B.Eng. degree from the Electronic Information School at Wuhan University. He has also enriched his academic experience through exchange programs at the University of Cambridge and Indiana University Bloomington. Yingda has collaborated on industry projects with major device manufacturers such as HONOR and Transsion, and he is currently a research intern at Microsoft Research.
+
+欢迎来到申英达的个人主页！申英达是香港中文大学（深圳）的哲学硕士（M.Phil.）研究生，师从武执政教授，研究方向为语音生成与语音大模型。他本科毕业于武汉大学电子信息学院，期间曾赴英国剑桥大学和美国印第安纳大学伯明顿分校交换学习。英达还曾参与荣耀、传音等大型终端设备公司的企业合作项目，目前正在微软研究院实习。
 
 
 # 🔥 News
